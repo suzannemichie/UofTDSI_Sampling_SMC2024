@@ -3,7 +3,7 @@ This GitHub repo was created to submit assignments completed by Suzanne Chalamba
 
 ## Folder Structure:
 **Questionnaire Design Part A**:
-This folder includes a file and link for the Questionnaire Design Part A assignment.
+This folder includes a MD file and link for the Questionnaire Design Part A assignment.
 
 **Questionnaire Design Part B**:
-This folder includes a file and link for the Questionnaire Design Part B assignment.
+This folder includes a MD file for the Questionnaire Design Part B assignment.
