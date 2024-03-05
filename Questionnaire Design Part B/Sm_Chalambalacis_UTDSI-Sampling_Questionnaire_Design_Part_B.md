@@ -1,6 +1,6 @@
 # Assignment: Questionnaire Design (Part B)
 ## Module 5: Sampling
-## Submitted by Suzanne M Chalambalacis 3-Mar-2024
+## Submitted by Suzanne M Chalambalacis 5-Mar-2024
 
 ### Part B - After Section 5.3
 
