@@ -1,6 +1,6 @@
 # Assignment: Questionnaire Design (Part A)
 ## Module 5: Sampling
-## Submitted by Suzanne M Chalambalacis 3-Mar-2024
+## Submitted by Suzanne M Chalambalacis 5-Mar-2024
 
 ### Part A  - After Section 5.2
 Select one of the scenarios below and design a survey to meet the need(s) outlined in the prompt.
