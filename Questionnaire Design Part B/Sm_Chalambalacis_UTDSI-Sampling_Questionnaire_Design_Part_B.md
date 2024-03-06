@@ -35,4 +35,4 @@
 
    >**Answer:**
    >
-   > The purpose of understanding the factors contributing to employee turnover could be partially fulfilled through an observational study, but a survey remains a more suitable method for capturing subjective experiences and opinions. An observational study could complement the survey by providing insights on behaviour and personal motivations so a combination of both methods would probably provide the best observations and therefore understanding on how to improve job satisfaction and lower employee turnover.
+   > The purpose of understanding employee turnover could be partially fulfilled through an observational study, but a survey remains a more suitable method for capturing subjective experiences and opinions. An observational study could complement the survey by providing insights on behaviour and personal motivations so a combination of both methods would probably provide the best results and therefore understanding on how to improve job satisfaction and lower employee turnover.
