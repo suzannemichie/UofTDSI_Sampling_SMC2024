@@ -5,14 +5,20 @@
 ### Part A  - After Section 5.2
 Select one of the scenarios below and design a survey to meet the need(s) outlined in the prompt.
 
+   >**Answer:**
+   >
    > I have chosen the first scenario: 1. You work in the Human Resources Department at a large tech company. Over the past few months, the company has been experiencing a high turnover rate across many of its departments, specifically within the entry- and lower-level positions. The company wishes to understand why this turnover is happening, and what changes need to occur to improve employee satisfaction.
 
 1.	In two to three sentences, describe the purpose of your survey
 
+   >**Answer:**
+   >
    > The purpose of the survey is to identify the factors contributing to the high turnover rate in entry- and lower-level positions within the tech company and to gather insights on potential changes that could improve overall employee satisfaction.
 
 2.	Describe your target population, sampling frame, sampling units, and observational units.
 
+   >**Answer:**
+   >
    > **Target Population:** All employees in entry- and lower-level positions within the tech company.
    > 
    > **Sampling Frame:** The company's current employee database, specifically focusing on those identified in entry- and lower-level positions.
@@ -23,6 +29,8 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 3.	Using the survey software of your choice (suggested: Google Forms) write a 5-10 question survey to address your chosen scenario. Provide a link here for submission. 
 
+   >**Answer:**
+   >
    > Link to Google Form survey: https://docs.google.com/forms/d/e/1FAIpQLSe0oIsgqjACRNAemCOrM2wjQLp7edtSDulri2QAStuBNhBAZg/viewform?usp=sharing
 
 ### Scenarios
