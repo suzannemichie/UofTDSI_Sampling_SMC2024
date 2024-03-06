@@ -22,7 +22,7 @@
 
    >**Answer:**
    >
-   > To address potential issues related to the original survey, below are some suggested changes:
+   > To address potential issues related to the original survey, below are some changes:
    > 
    > Nonresponse Bias: Implement multiple follow-up reminders to encourage participation; and/or provide incentives, such as gift cards, to increase response rates.
    > 
