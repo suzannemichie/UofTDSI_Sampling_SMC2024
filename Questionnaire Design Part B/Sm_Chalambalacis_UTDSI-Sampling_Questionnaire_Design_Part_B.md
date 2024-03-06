@@ -6,6 +6,8 @@
 
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
+   >**Answer:**
+   >
    > Efforts were made to design the survey in a way that captures a diverse range of perspectives within entry- and lower-level positions at the tech company, most of which were quantitative.
    > 
    > Factors influencing the sample include:
@@ -18,6 +20,8 @@
 
 2. Given the subject matter covered in Section 5.3, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
+   >**Answer:**
+   >
    > To address potential issues related to the original survey, below are some suggested changes:
    > 
    > Nonresponse Bias: Implement multiple follow-up reminders to encourage participation; and/or provide incentives, such as gift cards, to increase response rates.
@@ -29,4 +33,6 @@
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
+   >**Answer:**
+   >
    > The purpose of understanding the factors contributing to employee turnover could be partially fulfilled through an observational study, but a survey remains a more suitable method for capturing subjective experiences and opinions. An observational study could complement the survey by providing insights on behaviour and personal motivations so a combination of both methods would probably provide the best observations and therefore understanding on how to improve job satisfaction and lower employee turnover.
