@@ -91,7 +91,7 @@
    > 
    > $π_3$ = $P(3 ∈ S)$ = $P(S_5)$ + $P(S_6)$ = ⅓ + ⅓ = ⅔
    > 
-   > For the first design, each unit has an inclusion probability of ½, while in the second the inclusion probabilities vary: $π_1$ = $π_2$ = 1 and $π_3$ = ⅔
+   > For the first design, each unit has an inclusion probability of ½, while in the second design the inclusion probabilities vary: $π_1$ = $π_2$ = 1 and $π_3$ = ⅔
    > 
 
 5. Frankovic (2008) reported that in 1970, a poll conducted by the Harris organization for Virginia Slims, a brand of cigarettes marketed primarily to women, had the following question:
@@ -181,7 +181,7 @@ Sixty-seven percent of female respondents agreed with the statement. Critique th
    > 
    > Sampling Plan 2: $yˉ_2 = (90+129+200)/3 = 139.67$
    > 
-   > c. The better sampling plan is the one with a smaller variance, as it indicates less variability in the sample mean.
+   > c. The better sampling plan is the one with a smaller variance, Sampling Plan 2, as it indicates less variability in the sample mean.
 
 9. **Discuss whether an SRS would be appropriate for the following situations. What other designs might be used?**  
    > a. You want to estimate the percentage of topics in a medical website that have errors.  
@@ -279,7 +279,7 @@ Sixty-seven percent of female respondents agreed with the statement. Critique th
    >| 4    | 837  | 8  | 104.6 |64.6 | 1.0|
    >| 5    | 35   | 2  | 17.5 |7.8 | 0.7|
    >| 6    | 189  | 3  | 63.0 |22.3 | 0.6|
-   >| Total| 4021 | 34 | 118.3 |  |
+   >| **Total**| **4021** | **34** | **118.3** |  |
    >
    > The total number of cases sold is 4,021, and the average number sold per supermarket is 118.3.
 
@@ -301,7 +301,7 @@ Sixty-seven percent of female respondents agreed with the statement. Critique th
 
    >**Answer:**
    >
-   > **Response Rate = (Valid Returns/Number Mailed)x100**
+   > **Response Rate = (Valid Returns/Number Mailed)x100; Non-Response Rate = 100-Response Rate**
    >
    >| Discipline    | Response Rate | Non-response Rate | Female Members (%) |
    >|---------------|---------------|-------------------|--------------------|
@@ -312,7 +312,7 @@ Sixty-seven percent of female respondents agreed with the statement. Critique th
    >| Linguistics   | 73.91% | 26.09% | 36 |
    >| Political Science    | 69.03%  | 30.97% | 13 |
    >| Sociology     | 71.36% | 28.64% | 26 |
-   >| Totals        | 71.22% | 28.78% |    |
+   >| **Totals**        | **71.22%** | **28.78%** |    |
    >
    >   The nonresponse rate varies among the strata where Political Science has the highest nonresponse rate, followed by Literature then the Classics. The nonresponse does not appear to be related to the percentage of female membership, where Literature has the highest, follow by Linguistics then the Classics (and where Political Science has the lowest rate, followed by Philosophy and History).
 
@@ -332,8 +332,6 @@ Sixty-seven percent of female respondents agreed with the statement. Critique th
    >**Answer:**
    > 
    > The survey is comprehensive in its scope and includes various design features to enhance data quality. To ensure data quality, a number of design features were implemented:
-   > 
-   > Survey Mode and Administration:
    > 
    > • The survey was conducted between February 2001 and April 2003, over a two year period.
    > 
@@ -371,7 +369,7 @@ Sixty-seven percent of female respondents agreed with the statement. Critique th
    > 
    > • In the Discussion, the findings suggest that responses to questions about sexual behavior are influenced by self-presentation concerns e.g. "findings on the reported number of sex partners are consistent with the view that responses to questions about sexual behavior are strongly affected by self-presentation concerns"
    > 
-   > • The study found that questions done by an interviewer "sharply reduced the impact of the format of the sex partner questions on the answers. This finding also suggests that sex partner reports are produced through a somewhat different process when the answers must be reported to an interviewer." This suggests that the answers obtained though one of the self-administered reduced bias.
+   > • The study found that questions done by an interviewer "sharply reduced the impact of the format of the sex partner questions on the answers. This finding also suggests that sex partner reports are produced through a somewhat different process when the answers must be reported to an interviewer." This suggests that the answers obtained though one of the self-administered surveys reduced bias.
    > 
    > • The study acknowledged the limitations associated with the "relatively young, well-educated, and urban sample", highlighting the need for further research to test the generalizability of findings to different populations
 
