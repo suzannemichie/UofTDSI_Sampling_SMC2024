@@ -1,5 +1,6 @@
 # Final Assessment
 ## Module 5: Sampling
+## Submitted by Suzanne M Chalambalacis 9-Mar-2024
 
 1. **For the following survey, describe briefly the _target population_, the _sampling frame_ and the _frame population_, and the sampled population (or the _study population_). Discuss possible problems/issues with the sampling frames and the survey data in terms of coverage error and nonresponse bias:**  
    A survey conducted by the Dean of Mathematics at University of Waterloo (UW) indicates that about 25% of UW Computer Science graduates went to positions in the United States. Data were collected through questionnaires emailed to graduates from the past 5 years.
