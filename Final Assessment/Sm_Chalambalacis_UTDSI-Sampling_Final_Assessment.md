@@ -72,7 +72,7 @@
    $$P(S_k) = ⅓, k = 4, 5, 6 and P(S_k) = 0, k = 1,2,3,7.$$
    Let $πi = P(i ∈ S)$ be the probability that unit $i$ from $U$ is included in the sample. For each of the two probability sampling designs, calculate the inclusion probabilities $π1$, $π2$, and $π3$.
 
-   >**Answer:**
+   >**Answer: Please refer to linked MD file as well (certain characters would not print to PDF): https://github.com/suzannemichie/UofTDSI_Sampling_SMC2024/blob/main/Final%20Assessment/Sm_Chalambalacis_UTDSI-Sampling_Final_Assessment.md**
    >
    > First sampling inclusion probabilities calculations:
    >
@@ -118,7 +118,7 @@ Sixty-seven percent of female respondents agreed with the statement. Critique th
    > a. Describe a situation in which these errors cancel out.  
    > b. Describe a situation in which these errors compound.
 
-   >**Answer:**
+   >**Answer: Please refer to linked MD file as well (certain characters would not print to PDF): https://github.com/suzannemichie/UofTDSI_Sampling_SMC2024/blob/main/Final%20Assessment/Sm_Chalambalacis_UTDSI-Sampling_Final_Assessment.md**
    > 
    > a. 
    > 
@@ -195,7 +195,7 @@ Sixty-seven percent of female respondents agreed with the statement. Critique th
    > 
 10. Suppose that a city has 90,000 dwelling units, of which 35,000 are houses, 45,000 are apartments, and 10,000 are condominiums. You believe that the mean electricity usage is about twice as much for houses as for apartments or condominiums, and that the standard deviation is proportional to the mean so that S1 = 2S2 = 2S3. **How would you allocate a stratified sample of 900 observations if you wanted to estimate the mean electricity consumption for all households in the city?**
 
-   >**Answer:**
+   >**Answer: Please refer to linked MD file as well (certain characters would not print to PDF): https://github.com/suzannemichie/UofTDSI_Sampling_SMC2024/blob/main/Final%20Assessment/Sm_Chalambalacis_UTDSI-Sampling_Final_Assessment.md**
    > 
    > A stratified sampling approach ensures that the sample is representative of the different types of dwelling units in the city, and takes into account the proportion and standard deviation relationships among the strata.
    > 
