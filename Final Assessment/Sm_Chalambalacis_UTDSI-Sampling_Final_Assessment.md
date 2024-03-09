@@ -175,7 +175,7 @@ Sixty-seven percent of female respondents agreed with the statement. Critique th
    > b. Let y be the mean of the sample values. For each sampling plan, find E(y) and Var(y).  
    > c. Which sampling plan do you think is better? Why?
 
-   >**Answer:**
+   >**Answer: Please refer to linked MD file as well (certain characters would not print to PDF): https://github.com/suzannemichie/UofTDSI_Sampling_SMC2024/blob/main/Final%20Assessment/Sm_Chalambalacis_UTDSI-Sampling_Final_Assessment.md**
    > 
    > a. Value of Sample Means
    > 
