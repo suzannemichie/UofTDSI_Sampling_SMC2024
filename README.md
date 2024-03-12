@@ -11,5 +11,8 @@ This folder includes a MD file for the Questionnaire Design Part B assignment.
 **Data Documentation Comparison Worksheet**:
 This folder includes a MD file for the Data Documentation Comparison Worksheet assignment.
 
+**Sampling and Reproducibility in Python**:
+This folder includes a Jupiter notebook for the Sampling and Reproducibility in Python assignment.
+
 **Final Assessment**:
 This folder includes a MD file for the Final Assessment.
