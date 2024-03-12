@@ -8,5 +8,8 @@ This folder includes a MD file and link for the Questionnaire Design Part A assi
 **Questionnaire Design Part B**:
 This folder includes a MD file for the Questionnaire Design Part B assignment.
 
+**Data Documentation Comparison Worksheet**:
+This folder includes a MD file for the Data Documentation Comparison Worksheet assignment.
+
 **Final Assessment**:
 This folder includes a MD file for the Final Assessment.
